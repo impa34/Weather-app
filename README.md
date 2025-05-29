@@ -1,7 +1,7 @@
-🌦️ Weather App
+🌦️ **Weather App**
 A simple and dynamic weather application built with React and styled using Tailwind CSS. It fetches real-time weather data from the OpenWeatherMap API and adapts the background and animations based on current weather conditions like rain, clouds, or clear skies.
 
-🚀 Features
+🚀 **Features**
 🔍 Search weather by city name
 
 🌡 Displays temperature in Celsius
@@ -12,7 +12,7 @@ A simple and dynamic weather application built with React and styled using Tailw
 
 📱 Responsive design
 
-⚙️ Technologies Used
+⚙️ **Technologies Used**
 React
 
 Tailwind CSS
